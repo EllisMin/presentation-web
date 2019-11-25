@@ -91,7 +91,7 @@ body {
 
 #page-1 p {
   transform: translateX(-1200px);
-  animation: para var(--animate-speed) forwards ease-in 0.5s; /* 0.5s delay */
+  animation: para var(--animate-speed) forwards ease-in 1s; /* 1s delay */
 }
 
 @keyframes header {
